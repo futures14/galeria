@@ -45,13 +45,14 @@ body{
 .galeria{
     display: flex;
     flex-wrap: wrap;
-    padding: 10px 20px;
+    padding: 10px 10px;
+    margin-left: 10px;
     
 }
 .columna {
     flex: 20%;
     max-width: 19.5%;
-    padding: 0 5px;
+    padding: 0 3px;
     margin: 0;
     
 }
