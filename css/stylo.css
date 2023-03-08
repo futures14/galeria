@@ -50,8 +50,8 @@ body{
     
 }
 .columna {
-    flex: 20%;
-    max-width: 19.5%;
+    flex: 41.2vh;
+    max-width: 41.2vh;
     padding: 0 3px;
     margin: 0;
     
@@ -199,7 +199,7 @@ max-width: 50%;
 @media screen and (max-width: 600px){
     .columna{
         flex: 100%;
-        max-width: 100%;
+        max-width: 96%;
         }
         .encabezado h1{
             font-size: 1.5rem;
